@@ -1,6 +1,6 @@
 # 👋 Salut, je suis **Oumar Ali Tori** !
 
-Junior Fullstack Developer chez **INSEED**  
+ DevOps et Fullstack Developer chez **INSEED**  
 Passionné par le développement web et la résolution de problématiques réelles grâce à la technologie.
 
 ---
