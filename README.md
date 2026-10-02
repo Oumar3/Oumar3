@@ -18,20 +18,8 @@ Passionné par le développement web et la résolution de problématiques réell
 
 - **MERN Stack** (MongoDB, Express, React, Node.js)
 - **Python & Django**
-- **DevOps** (Docker, CI/CD, GitHub Actions, Kubernetes basique)
+- **DevOps** (Docker, CI/CD, GitHub Actions,cloud aws, Kubernetes, terraform,)
 
----
-
-## 🚀 Projets phares
-
-- **Outil de suivi des indications de l’INSEED**  
-  _Application pour le suivi des indicateurs de l’INSEED_
-
-- **Site web de l’INSEED**  
-  _Site officiel de l’INSEED_
-
-- **Application de gestion des inventaires**  
-  _Gestion et suivi des stocks_
 
 ---
 
