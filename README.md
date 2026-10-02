@@ -1,6 +1,6 @@
 # 👋 Salut, je suis **Oumar Ali Tori** !
 
- DevOps et Fullstack Developer chez **INSEED**  
+ DevOps et Fullstack Developer chez **silicon tchad**  
 Passionné par le développement web et la résolution de problématiques réelles grâce à la technologie.
 
 ---
